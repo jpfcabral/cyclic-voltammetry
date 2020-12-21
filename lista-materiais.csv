@@ -1,0 +1,25 @@
+Quantidade,Item,Package,Valor
+2,Capacitor,0805,22pF
+4,Capacitor,0805,100nF
+1,Capacitor,0805,10pF
+12,Resistor,0805,10kohms
+4,Resistor,0805,1kohms
+1,Resistor,0805,5kohms
+3,Resistor,0805,1k8 ohms
+3,Resistor,0805,3k3 ohms
+1,atmega328p,QFP80,-
+1,Fonte Linear,DPAK,7805
+2,ADC,SOT95,ADS1110
+1,Amplificador,SOIC 8,LM358
+1,DAC,SOT23-6,MCP4725
+3,Amplificador,SOIC 8,TL081
+1,Fonte Linear,SOT 223,7833
+1,LED,0805,Azul
+1,LED,0805,Amarelo
+1,Cristal Osc,*,16MHz
+4,Barra de pino ,2 vias (0.1in),*
+3,Barra de pino ,3 vias (0.1in),*
+1,Conector,3 vias (0.156in),*
+1,Display LCD,*,Fundo Azul
+1,Socket Microsd,*,*
+3,eletrodos,*,*
